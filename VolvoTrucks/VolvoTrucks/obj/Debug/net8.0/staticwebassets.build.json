@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "bJwACWleGdEanM8f16f0nSwk2Tv6jmmPNQ3sk1acUkY=",
+  "Source": "VolvoTrucks.Api",
+  "BasePath": "_content/VolvoTrucks.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
