@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/flsantos/Projects/VolvoTrucks/Domain/Domain.csproj": {}
+    "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/Domain.csproj": {}
   },
   "projects": {
-    "/Users/flsantos/Projects/VolvoTrucks/Domain/Domain.csproj": {
+    "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/flsantos/Projects/VolvoTrucks/Domain/Domain.csproj",
+        "projectUniqueName": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "/Users/flsantos/Projects/VolvoTrucks/Domain/Domain.csproj",
+        "projectPath": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/Domain.csproj",
         "packagesPath": "/Users/flsantos/.nuget/packages/",
-        "outputPath": "/Users/flsantos/Projects/VolvoTrucks/Domain/obj/",
+        "outputPath": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/flsantos/.nuget/NuGet/NuGet.Config"

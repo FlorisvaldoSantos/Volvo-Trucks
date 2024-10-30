@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "O/bKJHN5os4=",
+  "dgSpecHash": "0BM0E+a4bnE=",
   "success": true,
-  "projectFilePath": "/Users/flsantos/Projects/VolvoTrucks/Infrastrucuture/Infrastrucuture.csproj",
+  "projectFilePath": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Infrastrucuture/Infrastrucuture.csproj",
   "expectedPackageFiles": [
     "/Users/flsantos/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/flsantos/.nuget/packages/humanizer.core/2.14.1/humanizer.core.2.14.1.nupkg.sha512",

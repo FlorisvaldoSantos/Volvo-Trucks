@@ -19,9 +19,8 @@ namespace Infrastrucuture.Context
         {
             if(!optionsBuilder.IsConfigured)
                 optionsBuilder.UseSqlite(_configuration.GetConnectionString("DefaultConnection"));
-
+            
             base.OnConfiguring(optionsBuilder);
-
         }
 
         protected override void OnModelCreating(ModelBuilder modelBuilder)

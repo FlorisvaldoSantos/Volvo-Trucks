@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Infrastrucuture
-build_property.ProjectDir = /Users/flsantos/Projects/VolvoTrucks/Infrastrucuture/
+build_property.ProjectDir = /Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Infrastrucuture/
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

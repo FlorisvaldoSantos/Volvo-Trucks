@@ -39,7 +39,7 @@ namespace VolvoTrucks.Controllers
         {
             try
             {
-                _logger.LogInformation($"{Request.Path} : {Id}");
+                //_logger.LogInformation($"{Request.Path} : {Id}");
                 return Ok(await _truckService.Get(Id));
             }
             catch (Exception ex)

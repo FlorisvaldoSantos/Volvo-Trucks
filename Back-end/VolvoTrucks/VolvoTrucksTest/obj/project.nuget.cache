@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7Tadonf6iuM=",
+  "dgSpecHash": "8HnNqAZwHeQ=",
   "success": true,
-  "projectFilePath": "/Users/flsantos/Projects/VolvoTrucks/VolvoTrucksTest/VolvoTrucksTest.csproj",
+  "projectFilePath": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/VolvoTrucksTest/VolvoTrucksTest.csproj",
   "expectedPackageFiles": [
     "/Users/flsantos/.nuget/packages/automapper/13.0.1/automapper.13.0.1.nupkg.sha512",
     "/Users/flsantos/.nuget/packages/castle.core/5.1.1/castle.core.5.1.1.nupkg.sha512",

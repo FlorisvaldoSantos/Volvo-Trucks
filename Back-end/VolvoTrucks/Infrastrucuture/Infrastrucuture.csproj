@@ -31,4 +31,9 @@
     <Folder Include="Database\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <None Remove="Database\Volvo.db-wal" />
+    <None Remove="Database\Volvo.db-shm" />
+  </ItemGroup>
+
 </Project>

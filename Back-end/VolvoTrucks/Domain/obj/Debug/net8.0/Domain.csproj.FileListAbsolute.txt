@@ -20,3 +20,15 @@ C:/Users/adqt7629/source/repos/VolvoTrucks/Domain/obj/Debug/net8.0/ref/Domain.dl
 /Users/flsantos/Projects/VolvoTrucks/Domain/obj/Debug/net8.0/refint/Domain.dll
 /Users/flsantos/Projects/VolvoTrucks/Domain/obj/Debug/net8.0/Domain.pdb
 /Users/flsantos/Projects/VolvoTrucks/Domain/obj/Debug/net8.0/ref/Domain.dll
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/bin/Debug/net8.0/Domain.deps.json
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/bin/Debug/net8.0/Domain.dll
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/bin/Debug/net8.0/Domain.pdb
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/Domain.AssemblyInfoInputs.cache
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/Domain.AssemblyInfo.cs
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/Domain.csproj.CoreCompileInputs.cache
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/Domain.sourcelink.json
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/Domain.dll
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/refint/Domain.dll
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/Domain.pdb
+/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/obj/Debug/net8.0/ref/Domain.dll

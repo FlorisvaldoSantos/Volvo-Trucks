@@ -2974,11 +2974,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/flsantos/Projects/VolvoTrucks/VolvoTrucks/VolvoTrucks.Api.csproj",
+      "projectUniqueName": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/VolvoTrucks/VolvoTrucks.Api.csproj",
       "projectName": "VolvoTrucks.Api",
-      "projectPath": "/Users/flsantos/Projects/VolvoTrucks/VolvoTrucks/VolvoTrucks.Api.csproj",
+      "projectPath": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/VolvoTrucks/VolvoTrucks.Api.csproj",
       "packagesPath": "/Users/flsantos/.nuget/packages/",
-      "outputPath": "/Users/flsantos/Projects/VolvoTrucks/VolvoTrucks/obj/",
+      "outputPath": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/VolvoTrucks/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/flsantos/.nuget/NuGet/NuGet.Config"
@@ -2993,11 +2993,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "/Users/flsantos/Projects/VolvoTrucks/Domain/Domain.csproj": {
-              "projectPath": "/Users/flsantos/Projects/VolvoTrucks/Domain/Domain.csproj"
+            "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/Domain.csproj": {
+              "projectPath": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Domain/Domain.csproj"
             },
-            "/Users/flsantos/Projects/VolvoTrucks/Infrastrucuture/Infrastrucuture.csproj": {
-              "projectPath": "/Users/flsantos/Projects/VolvoTrucks/Infrastrucuture/Infrastrucuture.csproj"
+            "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Infrastrucuture/Infrastrucuture.csproj": {
+              "projectPath": "/Users/flsantos/Projects/Volvo-Truck/Back-end/VolvoTrucks/Infrastrucuture/Infrastrucuture.csproj"
             }
           }
         }
