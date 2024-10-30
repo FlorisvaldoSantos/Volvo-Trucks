@@ -41,6 +41,10 @@ O projeto foi desenvolvido utilizando o Rider IDM em um Macbook.
 Tela do Swagger da API
 <img width="1192" alt="Captura de Tela 2024-10-30 às 01 31 31" src="https://github.com/user-attachments/assets/85fc3ddd-3f14-4ea4-958d-aef7ee534a60">
 
+Collection do Postman 
+[Volvo.postman_collection.json](https://github.com/user-attachments/files/17566803/Volvo.postman_collection.json)
+
+
 ### :hammer_and_wrench: Abrir e Executar o projeto - Back-End.
 ```
 O projeto foi desenvolvido utilizando o Visual Studio Code. 
